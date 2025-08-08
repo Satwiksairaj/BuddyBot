@@ -70,7 +70,7 @@ const Navbar = () => {
               <MessageCircle className="w-5 h-5 text-primary" />
             </div>
             <h1 className="text-xl font-bold tracking-tight bg-gradient-to-r from-purple-500 to-pink-500 text-transparent bg-clip-text">
-  Talklet
+  BuddyBot
 </h1>
           </Link>
 
